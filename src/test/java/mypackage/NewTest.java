@@ -11,5 +11,6 @@ public class NewTest {
 	  driver.get("https://www.ciitcoder.com/login");
 	  driver.manage().window().maximize();
 	  System.out.println("Welcome");
+	    System.out.println("Welcome to pune");
   }
 }
