@@ -10,5 +10,6 @@ public class NewTest {
 	  WebDriver driver=new ChromeDriver();
 	  driver.get("https://www.ciitcoder.com/login");
 	  driver.manage().window().maximize();
+	  System.out.println("Welcome");
   }
 }
